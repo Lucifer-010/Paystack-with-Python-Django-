@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Paystack Payment API in Django</title>
-</head>
+
 <body>
   <h1>Setting Up Paystack Payment API in Django</h1>
   <p>Integrating Paystack's payment API into your Django project involves several steps:</p>
@@ -17,5 +11,4 @@
   </ol>
   <p>Remember to test thoroughly in a test environment before deploying to production.</p>
 </body>
-</html>
 
